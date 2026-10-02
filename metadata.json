@@ -1,0 +1,6 @@
+{
+  "name": "RH Clothing — Modern Essentials & International Fashion",
+  "description": "Discover RH Clothing. Premium modern essentials, tailored streetwear, and elevated everyday apparel designed for confidence across USA, UK, Australia, and Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
